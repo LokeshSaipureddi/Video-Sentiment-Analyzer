@@ -1,4 +1,6 @@
 ./training/runs
 ./.venv
 ./.training/__pycache__
-
+./.dataset/dev/dev_splits_complete
+./.dataset/test/output_repeated_splits_test
+./.dataset/train/train_splits
