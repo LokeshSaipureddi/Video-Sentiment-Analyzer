@@ -12,6 +12,12 @@ The **Video Sentiment Analyzer** processes video inputs to output sentiment and 
 
 ---
 
+## 🎬 Demo Video
+
+📺 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1ZhQDr6s3t0CCQ6oc3smRt1RK-Y9Fqjp7/view?usp=sharing)
+
+---
+
 ## 🧠 Model Architecture
 
 The architecture separates video inputs into three modalities:
